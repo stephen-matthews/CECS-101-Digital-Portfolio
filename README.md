@@ -1,5 +1,5 @@
-# CECS-101-Digital-Portfolio
-My digital portfolio for CECS-101: Design Your Degree, Design Your Career.
+# Personal Design Portfolio
+**CECS-101: Design Your Degree, Design Your Career** — University of Tennessee
 
 ## About Me
 I'm Stephen Matthews, an Applied AI student at the University of Tennessee.
@@ -15,3 +15,4 @@ A degree in Applied AI focused on machine learning, programming, computer vision
 Python, Applied AI
 ## Contact
 sma11hews@gmail.com
+https://github.com/stephen-matthews
