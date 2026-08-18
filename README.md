@@ -14,5 +14,5 @@ A degree in Applied AI focused on machine learning, programming, computer vision
 ## Skills I Am Developing
 Python, Applied AI
 ## Contact
-**Email** sma11hews@gmail.com
-**GitHub** https://github.com/stephen-matthews
+-**Email** sma11hews@gmail.com
+-**GitHub** https://github.com/stephen-matthews
