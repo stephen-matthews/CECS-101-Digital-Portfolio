@@ -1,76 +1,103 @@
-RIASEC Profile Summary
+# RIASEC Profile Summary
 
-Stephen Matthews | CECS-101: Design Your Degree, Design Your Career
+**Stephen Matthews | CECS-101: Design Your Degree, Design Your Career**
 
-Step 1 — Take the RIASEC Assessment
+---
 
-Assessment used: O*NET Interest Profiler
+## Step 1 — Take the RIASEC Assessment
 
-Step 2 — Record Your Results
-My Holland Code
+Assessment used: **O\*NET Interest Profiler**
 
-My three-letter Holland Code: I-C-R
+---
 
-Type	Score	Strength Level
-Realistic (R)	9	Moderate (tied for third)
-Investigative (I)	11	Highest
-Artistic (A)	9	Moderate (tied for third)
-Social (S)	7	Lowest
-Enterprising (E)	8	Lower
-Conventional (C)	10	High
+## Step 2 — Record Your Results
+
+### My Holland Code
+
+**My three-letter Holland Code:** I-C-R
+
+| Type | Score | Strength Level |
+|---|---|---|
+| Realistic (R) | 9 | Moderate (tied for third) |
+| Investigative (I) | 11 | Highest |
+| Artistic (A) | 9 | Moderate (tied for third) |
+| Social (S) | 7 | Lowest |
+| Enterprising (E) | 8 | Lower |
+| Conventional (C) | 10 | High |
 
 Realistic and Artistic tied at 9, so I-C-A would be an equally valid reading of my code. I interpreted R as my third type below and added a note on the Artistic tie.
 
 Four points separate my highest score from my lowest, so no type really dominates. A flat profile means more flexibility, and it also means my three letter code is less reliable than it would be for someone with a clear spike, since a couple of different answers would reorder my top three. My scores are low in absolute terms across the board, which probably means I answered conservatively, so the ranking is more useful to me than the raw numbers.
 
-Step 3 — Interpret Each of Your Top Three Types
-My Top Three Types — Detailed Interpretation
-Type 1: I — Investigative
+---
 
-What this type typically values: Working with ideas, data, and analysis. Intellectual inquiry and problem solving, and understanding why something works rather than only that it does.
+## Step 3 — Interpret Each of Your Top Three Types
 
-How this shows up in my life: I taught myself to build games, set up and harden a server, and build websites and databases with no coursework behind any of it, mostly because I wanted to know how those things worked. I lose track of time when I am figuring something out. It also describes how I approach dance, since diagnosing why a student is off balance is an analytical problem before it is a physical one.
+### My Top Three Types — Detailed Interpretation
 
-Careers associated with this type that interest me:
+#### Type 1: I — Investigative
 
-Computer Vision Engineer
-Machine Learning Engineer
-Data Scientist
-Type 2: C — Conventional
+**What this type typically values:**
+Working with ideas, data, and analysis. Intellectual inquiry and problem solving, and understanding why something works rather than only that it does.
 
-What this type typically values: Organized, structured work with clear procedures. Accuracy, order, and efficiency.
+**How this shows up in my life:**
+I taught myself to build games, set up and harden a server, and build websites and databases with no coursework behind any of it, mostly because I wanted to know how those things worked. I lose track of time when I am figuring something out. It also describes how I approach dance, since diagnosing why a student is off balance is an analytical problem before it is a physical one.
 
-How this shows up in my life: My days run on a fixed structure. Wake up, work out, school work, teach lessons, train, and the weekend looks about the same as a weekday. The Marine Corps was a good fit for me for the same reason. When I approach a technical problem I tend to build the system and the procedure before I build the thing itself.
+**Careers associated with this type that interest me:**
 
-Careers associated with this type that interest me:
+1. Computer Vision Engineer
+2. Machine Learning Engineer
+3. Data Scientist
 
-Data Analyst
-Database Administrator
-Information Security Analyst
-Type 3: R — Realistic
+---
 
-What this type typically values: Hands on, practical work with tools, machines, and physical materials. Building things and seeing tangible results.
+#### Type 2: C — Conventional
 
-How this shows up in my life: Almost everything I did before this degree was physical. Farm, Marine Corps, and twelve years of dance. Even my technical background is the hands on version, since I built and hardened an actual server instead of reading about servers. The project I want to build is physical too, because it reads what a real body is doing in real space and it may involve hardware sensors.
+**What this type typically values:**
+Organized, structured work with clear procedures. Accuracy, order, and efficiency.
 
-Careers associated with this type that interest me:
+**How this shows up in my life:**
+My days run on a fixed structure. Wake up, work out, school work, teach lessons, train, and the weekend looks about the same as a weekday. The Marine Corps was a good fit for me for the same reason. When I approach a technical problem I tend to build the system and the procedure before I build the thing itself.
 
-Software Developer, Applications
-Embedded Systems or Robotics Engineer
-Motion Capture or Biomechanics Technician
-Note on the Artistic tie
+**Careers associated with this type that interest me:**
+
+1. Data Analyst
+2. Database Administrator
+3. Information Security Analyst
+
+---
+
+#### Type 3: R — Realistic
+
+**What this type typically values:**
+Hands on, practical work with tools, machines, and physical materials. Building things and seeing tangible results.
+
+**How this shows up in my life:**
+Almost everything I did before this degree was physical. Farm, Marine Corps, and twelve years of dance. Even my technical background is the hands on version, since I built and hardened an actual server instead of reading about servers. The project I want to build is physical too, because it reads what a real body is doing in real space and it may involve hardware sensors.
+
+**Careers associated with this type that interest me:**
+
+1. Software Developer, Applications
+2. Embedded Systems or Robotics Engineer
+3. Motion Capture or Biomechanics Technician
+
+---
+
+#### Note on the Artistic tie
 
 Artistic tied with Realistic at 9, and I would have expected it to be my highest score after twelve years of dancing professionally. My VIA results said something similar, ranking Appreciation of Beauty and Excellence 22nd out of 24. Two assessments both suggest I experienced dance as a technical and physical discipline more than an aesthetic one, which fits with wanting to reduce it to measurable corrections a machine could evaluate. Careers in this type that still interest me are game designer, user experience designer, and choreographer.
 
-Step 4 — Connect Your Holland Code to Your Module 2 Findings
+---
 
-Where my Holland Code and Module 2 findings align:
+## Step 4 — Connect Your Holland Code to Your Module 2 Findings
+
+**Where my Holland Code and Module 2 findings align:**
 
 Investigative on top matches what my other assessments already said. My VIA profile put Creativity first, Judgment second, Love of Learning fourth, and Curiosity sixth, with four of my top six strengths in the Wisdom cluster. My SWOT listed learning unfamiliar fields as my main strength and my Empathy Map said learning new skills is what energizes me. Three instruments taken at different times all landed in the same place.
 
 Realistic matches the shape of my history, which has been hands on work in every field I have been in.
 
-Where there are surprises or tensions:
+**Where there are surprises or tensions:**
 
 Conventional at second changed how I read something. In my Empathy Map I concluded that my discipline holds wherever there is structure and fails in the private places nobody sees, and I treated that as a limitation to work around. Scoring Conventional this high suggests structure is not a crutch I depend on but a working condition I actually prefer. That is a different problem to solve. Instead of compensating for it I should be designing for it, which is what I already did without knowing why when I gave my personal project monthly public commits.
 
@@ -80,7 +107,7 @@ Enterprising is second lowest and I own a business, which suggests I run a busin
 
 The whole profile is also flat, with no dominant type, which narrows the field without picking for me.
 
-What this tells me about my career direction:
+**What this tells me about my career direction:**
 
 Investigative plus Conventional plus low Social describes what I am actually trying to do fairly precisely. I want to take expertise that currently only exists inside one person watching another person, turn it into something measurable and rule based, and build a system that delivers it. That takes analysis, structure, and a willingness to take the human out of the loop, and my highest and lowest scores line up with all three. It also supports the direction I picked before taking the assessment, since computer vision is Investigative work on a Realistic subject built through structured systems.
 
